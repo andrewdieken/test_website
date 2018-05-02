@@ -4,11 +4,11 @@ subtitle: Don’t just take my word for it. Check out some of my skills and abil
 
 portfolio:
   - category: Programming Languages #Branding
-    # url: "#"
-    # image: "/img/portfolio/work1.jpg"
-    # name: Python
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    url: "#"
+    image: "/img/portfolio/work1.jpg"
+    name: Python
+    description: #>
+      Labore et dolore magna aliqua. Ut enim ad
   - category: Development #Websites
     url: "#"
     image: "/img/portfolio/work1.jpg"
