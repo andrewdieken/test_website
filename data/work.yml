@@ -18,8 +18,9 @@ portfolio:
   - category: Operating Systems #Graphics
     # url: "#"
     # image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+    # name: Tesla Motors
     description: >
+      paragraph: Linux, iOS, Windows
       Linux, iOS, Windows
   - category: Testing Framework #Design
     # url: "#"
