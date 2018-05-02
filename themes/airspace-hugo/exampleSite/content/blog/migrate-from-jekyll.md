@@ -1,6 +1,7 @@
 +++
-title = "Migrate from Jekyll"
-date = "2015-10-10T13:07:31+02:00"
+title = "Internship, Starbucks Coffee Company"
+date = "2018"
+<!-- -10-10T13:07:31+02:00" -->
 tags = ["ipsum"]
 categories = ["lorem"]
 +++

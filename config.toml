@@ -67,8 +67,8 @@ theme = "airspace-hugo"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "Get The Latest On What I'm doing"
+    subtitle = "Catch up with me, anytime and anywhere"
 
   [params.feature]
     enable = true
