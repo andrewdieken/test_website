@@ -6,7 +6,13 @@ portfolio:
   - category: Programming Languages #Branding
     url: "#"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Python
+    name: Java
+    name: Swift
+    name: C++
+    name: UML
+    name: c#
+    name: MySql
     description: >
       Labore et dolore magna aliqua. Ut enim ad
   - category: Development #Websites
@@ -21,13 +27,13 @@ portfolio:
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Operating Systems #Design
+  - category: Testing Framework #Design
     url: "#"
     image: "/img/portfolio/work3.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Testing Framework #Video
+  - category: Awards and Certifications #Video
     url: "#"
     image: "/img/portfolio/work4.jpg"
     name: Tesla Motors
