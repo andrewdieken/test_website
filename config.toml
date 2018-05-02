@@ -57,7 +57,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Andrew Dieken"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    subtitle = "Junior, Chapman University.<br/>Software Engineering Major | Business Admin Minor"
 
   [params.wrapper]
     enable = true
