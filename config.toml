@@ -56,7 +56,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "My Website"
+    title = "Andrew Dieken"
     subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
   [params.wrapper]
