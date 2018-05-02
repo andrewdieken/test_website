@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
-    name = "Skil Sets"
+    name = "Skill Sets"
     url = "/work"
   [[menu.header]]
     weight = 3
