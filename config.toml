@@ -7,15 +7,15 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
-    name = "Work"
+    name = "My Work"
     url = "/work"
   [[menu.header]]
     weight = 3
-    name = "Blog"
+    name = "Skill Sets"
     url = "/blog"
   [[menu.header]]
     weight = 4
-    name = "Service"
+    name = "Course Work"
     url = "#"
   [[menu.header]]
     weight = 5
@@ -62,8 +62,8 @@ theme = "airspace-hugo"
   [params.wrapper]
     enable = true
     title = "About Me"
-    italic = "I am junior student athlete studying software engineering and business administration at Chapman University"
-    paragraph = "I am involved in many groups on campus including...<br/>1) UX Society<br/>2) Chapman University Investment Group<br/>3) Chapman University Football Team 2017 SCIAC Champions"
+    italic = "I am Junior Student Athlete studying Software Engineering and Business Administration at Chapman University"
+    paragraph = "I am involved in many groups on campus including UX Society, Chapman University Investment Group, and the Chapman University Football Team 2017 SCIAC Champions"
 
   [params.blog]
     enable = true
