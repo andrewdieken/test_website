@@ -8,7 +8,7 @@
             <div class="block">
               <div class="portfolio-menu">
                 <ul>
-                    <li class="filter" data-filter="all">Everything</li>
+                    <!-- <li class="filter" data-filter="all">Everything</li> -->
                   {{ range .Site.Data.work.portfolio }}
                     <li class="filter" data-filter=".{{ .category }}">{{ .category }}</li>
                   {{ end }}
