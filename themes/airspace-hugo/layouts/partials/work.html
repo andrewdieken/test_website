@@ -18,16 +18,16 @@
                 <ul id="portfolio-contant-active">
                   {{ range .Site.Data.work.portfolio }}
                     <li class="mix {{ .category }}">
-                      <a href="{{ .url }}">
+                      <!-- <a href="{{ .url }}">
                         <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
-                        <div class="overly">
+                        <div class="overly"> -->
                           <div class="position-center">
-                            <!-- <h2>{{ .name }}</h2>  -->
+                            <h2>{{ .name }}</h2>
                             <p>{{ .description }}</p>
 
                           </div>
-                        </div>
-                      </a>
+                        <!-- </div> -->
+                      <!-- </a> -->
                   </li>
                   {{ end }}
                 </ul>
