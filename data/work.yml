@@ -7,32 +7,32 @@ portfolio:
     # url: "#"
     # image: "/img/portfolio/work1.jpg"
     # name: Python
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    description: >
+      Python, Java, Swift, C++, UML, C#, MySQL, Ruby, Html, CSS
   - category: Development #Websites
     # url: "#"
     # image: "/img/portfolio/work1.jpg"
     # name: Tesla Motors
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    description: >
+      NetBeans, Eclipse, Xcode, Clion, Google Firebase, CLI, Github, Docker
   - category: Operating Systems #Graphics
     # url: "#"
     # image: "/img/portfolio/work2.jpg"
     # name: Tesla Motors
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    description: >
+      Linux, iOS, Windows
   - category: Testing Framework #Design
     # url: "#"
     # image: "/img/portfolio/work3.jpg"
     # name: Tesla Motors
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    description: >
+      Junit
   - category: Awards and Certifications #Video
     # url: "#"
     # image: "/img/portfolio/work4.jpg"
     # name: Tesla Motors
-    # description: #>
-    #   Labore et dolore magna aliqua. Ut enim ad
+    description: >
+      Bloomber Market Concept, 1st Team All SCIAC, Advanced Open Water Diver
 # clients:
 #   - image: "/img/clients/clients-logo1.png"
 #     url: "#"
