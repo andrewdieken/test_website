@@ -1,7 +1,6 @@
 +++
 title = "Chapman University Athletic Department"
 date = "2017"
-<!-- -10-02T21:49:20+02:00" -->
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming"]
 author = "John Doe"

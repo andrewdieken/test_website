@@ -1,7 +1,6 @@
 +++
 title = "Curtis Capital Group"
 date = "2016"
-<!-- -08-03T13:39:46+02:00" -->
 tags = ["hugo"]
 categories = ["pseudo"]
 +++

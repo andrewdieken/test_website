@@ -1,7 +1,6 @@
 +++
 title = "SKITS Products"
 date = "2015-2016"
-<!-- -06-24T13:50:46+02:00" -->
 tags = ["theme"]
 categories = ["starting"]
 +++
