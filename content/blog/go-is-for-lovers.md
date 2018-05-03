@@ -1,6 +1,6 @@
 +++
 title = "Vendyr Events Inc."
-date = "2017"
+date = "2017-10-10T13:07:31+02:00"
 tags = ["go"]
 categories = ["programming"]
 +++
